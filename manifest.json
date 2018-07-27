@@ -1,0 +1,33 @@
+{
+    "workshop": {
+        "title": "Journey To The Cloud: Oracle Self Service Integration Hands-on Workshop",
+        "description": "A hands-on event to explore Oracle’s Cloud Platform for Integration Self Service Integration capabilities",
+        "theme": "ttc",
+        "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the Oracle Self Service Integration workshop"
+            },
+            {
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Exploring Oracle Self Service Integration",
+                "description": "This lab will show you the capabilities within Self Service Integration."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: Create a Recipe that adds Google Contacts to Google Sheets",
+                "description": "In this Lab we are going to create a recipe that takes First Name and Last Name added to Google contacts then add them to Google Sheets."
+            }
+        ]
+    }
+}
