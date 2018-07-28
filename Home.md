@@ -24,7 +24,6 @@ Oracle Self-Service Integration Cloud Service (SSI) lets you automate tasks and 
 ## Self Service Integration Key Business Benefits
 
 - Increase Line of Business productivity via recipe-based integration and delegate control to domain expertise owners
-
 - Allow Line of Business App users to create integration recipes while IT focuses on the governance and control aspects of the end to end solution
 - End to end recipe audit trails to comply with your most rigorous compliance and regulation controls
 - Oracle Managed subscription-based recipe integration cloud service that enables instant access to create integrations
