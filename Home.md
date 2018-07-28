@@ -14,7 +14,6 @@ At Oracle we have invested in delivering a plethora of new Cloud Services and we
 
 This workshop will focus on the Self Service Integration (SSI) capabilities within Oracle Cloud Platform for Integration Cloud.  Oracle Self-Service Integration (SSI) automates tasks between cloud applications. Improve your productivity and your collaborations by automating manual tasks without reliance on IT. Integrate Oracle apps with other popular cloud applications, or integrate between your other favorite cloud applications.
 
-It includes an intuitive web based integration designer for point and click integration between applications and a rich monitoring dashboard that provides real-time insight into the transactions, all running on a mature runtime platform on Oracle Public Cloud. ICS will help accelerate integration projects and significantly shorten the time-to-market through it's intuitive and simplified designer, an intelligent data mapper, and a library of adapters to connect to various applications.
 
 ## About Self Service Integration Cloud Service
 
@@ -22,15 +21,20 @@ Oracle Self-Service Integration Cloud Service (SSI) lets you automate tasks and 
 
 ![](images/ossaug_ap_001.png)
 
-### Self Service Integration Cloud Service Features
+## Self Service Integration Key Business Benefits
 
-- Integrate Applications - Deliver integrations up to 6X faster with pre-built adapters for your SaaS and on-premises systems.
+- Increase Line of Business productivity via recipe-based integration and delegate control to domain expertise owners
 
-- Automate Processes - Streamline your digital workforce with an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device.
+- Allow Line of Business App users to create integration recipes while IT focuses on the governance and control aspects of the end to end solution
+- End to end recipe audit trails to comply with your most rigorous compliance and regulation controls
+- Oracle Managed subscription-based recipe integration cloud service that enables instant access to create integrations
 
-- Build Applications Visually - Rapidly create and host engaging business applications with a visual development environment right from the comfort of your browser. Define business objects, integrate data from external system, incorporate business processes, and design tailored interfaces to create your apps.
+## Self Service Integration Cloud Service Features
 
-- Gain Insight - Gain real-time insight into end-to-end processes with guidance on best next steps for your business operational excellence and run massively parallel real-time analytics on streaming data for instant actionable insights. 
+- Increase Line of Business productivity via recipe-based integration and delegate control to domain expertise owners
+- Allow Line of Business App users to create integration recipes while IT focuses on the governance and control aspects of the end to end solution
+- End to end recipe audit trails to comply with your most rigorous compliance and regulation controls
+- Oracle Managed subscription-based recipe integration cloud service that enables instant access to create integrations
 
 ## Hands-on Lab Overview
 This hands-on lab will allow participants to do the following:
