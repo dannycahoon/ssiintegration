@@ -36,6 +36,7 @@ Oracle Self-Service Integration Cloud Service (SSI) lets you automate tasks and 
 - Oracle Managed subscription-based recipe integration cloud service that enables instant access to create integrations
 
 ## Hands-on Lab Overview
+
 This hands-on lab will allow participants to do the following:
 - Lab 100 - Explore capabilities of Self Service Integration in Oracle Cloud Platform for Integration
 - Lab 200 - Configure a Recipe to add Google Contacts to Google Sheets
