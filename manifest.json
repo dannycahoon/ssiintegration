@@ -18,7 +18,7 @@
             },
             {
                 "number": "100",
-                "filename": "ics100.md",
+                "filename": "ssi100.md",
                 "title": "Lab 100: Create a Recipe that adds Google Contacts to Google Sheets",
                 "description": "In this Lab we are going to create a recipe that takes First Name and Last Name added to Google contacts then add them to Google Sheets."
             }
