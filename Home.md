@@ -38,8 +38,7 @@ Oracle Self-Service Integration Cloud Service (SSI) lets you automate tasks and 
 ## Hands-on Lab Overview
 
 This hands-on lab will allow participants to do the following:
-- Lab 100 - Explore capabilities of Self Service Integration in Oracle Cloud Platform for Integration
-- Lab 200 - Configure a Recipe to add Google Contacts to Google Sheets
+- Lab 100 - Configure a Recipe to add Google Contacts to Google Sheets
 
 
 ## Get Started: 
