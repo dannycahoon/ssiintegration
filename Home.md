@@ -2,7 +2,7 @@
 
 ![](images/j2c-logo.png)
 
-> Updated: August 3rd, 2018
+> Updated: September 24th, 2018
 
 ## Journey To The Cloud: Oracle Cloud Platform for Integration - Self Service Integration Hands On Lab
 A hands-on workshop to dive into development on Self Service Integration
