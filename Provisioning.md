@@ -32,19 +32,19 @@ Step 6:  If your default page looks like this, then simply search for self and t
 
 
 Step 7:  Alternatively, if your default page looks like this then you need to click on Customize Dashboard
-![](images/provisioning/Step7.png)
+![](images/provisioning/Step7.PNG)
  
 
 Step 8:  This will bring you to the Customize Dashboard page where you will scroll almost to the end of the page to locate Self-Service Integration and click on Show
-![](images/provisioning/Step8.png)
+![](images/provisioning/Step8.PNG)
  
 
 
 Step 9:  Now you will see a listing for Self-Service Integration which you can click on
- ![](images/provisioning/Step9.png)
+ ![](images/provisioning/Step9.PNG)
 
 Step 10: Click Open Service Console
-![](images/provisioning/Step10.png)
+![](images/provisioning/Step10.PNG)
 
 Step 11:  Click on Create Instance
 
